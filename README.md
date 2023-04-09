@@ -29,6 +29,15 @@
   <img src="https://img.shields.io/badge/anaconda-green?logo=Anaconda&logoColor=white&style=for-the-badge" />
 </p>
 
+__________________________________________________________________________________________________________________________
+
+
+**Мои Ноутбуки `.ipynb`:**
+
+01. [Репозиторий - Проекты Яндекс.Практикум (Data Science)](https://github.com/Olesia2288/Yandex_Practice_Data_Science)  
+02. [Репозиторий - Проекты Kaggle (Data Analyst)](https://github.com/Olesia2288/My_projects_EDA)  
+03. [Репозиторий - Учебные файлы по прикладному машинному обучению](https://github.com/Olesia2288/Training_files)
+
 - 🌱 Сейчас я изучаю курс по Data Science от **Яндекс.Практикум**
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=olesia2288&show_icons=true&locale=en" alt="olesia2288" /></p>
