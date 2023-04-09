@@ -22,7 +22,7 @@
    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
    <img src="https://img.shields.io/badge/Matplotlib-A94F01?logo=Matplotlib&logoColor=white&style=for-the-badge" />
    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optuna-A90168?logo=Optuna&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
    <img src="https://img.shields.io/badge/datalens-7F7FD0?logo=DataLens&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/excel-257E4D?logo=Excel&logoColor=white&style=for-the-badge" />
