@@ -1,20 +1,19 @@
 <h1 align="center">Добро пожаловать на мою страничку 👋</h1>
-<h3 align="center">Начинающий аналитик данных и специалист по науке о данных</h3>
 
-- 🌱 Сейчас я изучаю курс по Data Science от **Яндекс.Практикум**
+<p align="center"> <img src = "https://user-images.githubusercontent.com/115698180/230748669-e00ccc57-4db0-4d93-9a67-fda43aacfcc4.jpg"></p>
 
-<h3 align="left">Свяжитесь со мной:</h3>
+<h3 align="center"> О себе: начинающий Data Scientist и Аналитик данных</h3>
 
-<p align=""left"">
+<p align="center">
   <a href="https://kaggle.com/eva2020"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
   <a href="https://www.leetcode.com/olesiazorich/"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a> 
 </p>
 
-<p align="left"> 
+<p align="center"> 
   Языки и инструменты:
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
@@ -29,5 +28,7 @@
   <img src="https://img.shields.io/badge/excel-257E4D?logo=Excel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/anaconda-green?logo=Anaconda&logoColor=white&style=for-the-badge" />
 </p>
+
+- 🌱 Сейчас я изучаю курс по Data Science от **Яндекс.Практикум**
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=olesia2288&show_icons=true&locale=en" alt="olesia2288" /></p>
