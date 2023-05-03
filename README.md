@@ -27,6 +27,9 @@
    <img src="https://img.shields.io/badge/datalens-7F7FD0?logo=DataLens&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/excel-257E4D?logo=Excel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/anaconda-green?logo=Anaconda&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-%DDA2FF.svg?style=for-the-badge&logo=SQL&logoColor=%white" />
+  <img src="https://img.shields.io/badge/Keras-006600?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/tensorflow-6b007c?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 __________________________________________________________________________________________________________________________
