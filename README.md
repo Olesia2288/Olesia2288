@@ -42,6 +42,6 @@ ________________________________________________________________________________
 03. [Репозиторий - Учебные файлы по прикладному машинному обучению](https://github.com/Olesia2288/Training_files)
 04. [Репозиторий - Хакатоны (Hackathons)](https://github.com/Olesia2288/Hackathons)
 
-- 🌱 Сейчас я изучаю курс по Data Science от **Яндекс.Практикум**
+- 🌱 [Диплом о профессиональной переподготовке по программе **"Специалист по Data Science"**](https://drive.google.com/file/d/1DPZfn3Ck15NpODCA4XCVuhOekiSHKIbF/view?usp=sharing)[(English version)](https://drive.google.com/file/d/1trqm-4D0CdVoRmqPTVQg5lkNaz6yWeC9/view?usp=sharing)
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=olesia2288&show_icons=true&locale=en" alt="olesia2288" /></p>
